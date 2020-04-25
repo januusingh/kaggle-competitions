@@ -13,4 +13,4 @@ This repository contains my solutions to various Kaggle Competitions (past and o
 
 
 #### Data
-My repositories do not contain the data for the project itself, however the data can be downloaded from the original Kaggle competitions directly.
+This repository does not contain the data for the project itself, however the data can be downloaded from the original Kaggle competitions directly.
