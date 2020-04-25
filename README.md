@@ -7,6 +7,8 @@ This repository contains my solutions to various Kaggle Competitions (past and o
 
 [Heritage Health Prize](https://www.kaggle.com/c/hhp)
 
+[2009-2013 Census Data](https://www.kaggle.com/census/2013-american-community-survey)
+
 [Predicting Parkinson's Disease Progression with Smartphone Data](https://www.kaggle.com/c/predicting-parkinson-s-disease-progression-with-smartphone-data/data)
 
 #### Data
