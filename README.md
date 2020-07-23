@@ -5,11 +5,15 @@ This repository contains my solutions to various Kaggle Competitions (past and o
 
 #### Competitions
 
-[Predicting Parkinson's Disease Progression with Smartphone Data](https://www.kaggle.com/c/predicting-parkinson-s-disease-progression-with-smartphone-data/data)
+[2009-2013 Census Data](https://www.kaggle.com/census/2013-american-community-survey)
+
+[COVID-19 Glovbal Forecasting](https://www.kaggle.com/c/covid19-global-forecasting-week-3/)
+
+[COVID-19 Roche UNCOVER Challenge](https://www.kaggle.com/roche-data-science-coalition/uncover)
 
 [Heritage Health Prize](https://www.kaggle.com/c/hhp)
 
-[2009-2013 Census Data](https://www.kaggle.com/census/2013-american-community-survey)
+[Predicting Parkinson's Disease Progression with Smartphone Data](https://www.kaggle.com/c/predicting-parkinson-s-disease-progression-with-smartphone-data/data)
 
 
 #### Data
