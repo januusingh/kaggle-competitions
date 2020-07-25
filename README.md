@@ -3,24 +3,6 @@
 ### Introduction
 This repository contains my solutions to various Kaggle Competitions (past and ongoing). Some repositories are completed solutions, and some are in progress. Most of my solutions are in Python and R and specific to Data Science and Machine Learning problems in healthcare. 
 
-#### File Structure
-
-|-- README.md  
-|-- census-data  
-|----|-- Writeup.pdf  
-|-- covid-19-analysis  
-|----|-- COVID-19_Writeup.pdf  
-|----|-- Data  
-|----|-- Analysis  
-|-- ehr-heritage-health  
-|----|-- Heritage_Health_Writeup.pdf  
-|----|-- models  
-|----|-- code  
-|-- parkinsons-smart-phone  
-|----|-- Parkinsons_Writeup.pdf  
-|----|-- Process.R  
-|----|-- Project_3_Analysis.ipynb  
-
 #### Competitions
 
 1. [2009-2013 Census Data](https://www.kaggle.com/census/2013-american-community-survey): Found in [census-data](https://github.com/januusingh/kaggle-competitions/tree/master/census-data)
