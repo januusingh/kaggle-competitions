@@ -23,15 +23,11 @@ This repository contains my solutions to various Kaggle Competitions (past and o
 
 #### Competitions
 
-[2009-2013 Census Data](https://www.kaggle.com/census/2013-american-community-survey): Found in [census-data](https://github.com/januusingh/kaggle-competitions/tree/master/census-data)
-
-[COVID-19 Global Forecasting](https://www.kaggle.com/c/covid19-global-forecasting-week-3/): Found in [covid-19-analysis](https://github.com/januusingh/kaggle-competitions/tree/master/covid-19-analysis)
-
-[COVID-19 Roche UNCOVER Challenge](https://www.kaggle.com/roche-data-science-coalition/uncover): Found in [covid-19-analysis](https://github.com/januusingh/kaggle-competitions/tree/master/covid-19-analysis)
-
-[Heritage Health Prize](https://www.kaggle.com/c/hhp): Found in [ehr-heritage-health](https://github.com/januusingh/kaggle-competitions/tree/master/ehr-heritage-health)
-
-[Predicting Parkinson's Disease Progression with Smartphone Data](https://www.kaggle.com/c/predicting-parkinson-s-disease-progression-with-smartphone-data/data): Found in [parkinsons-smart-phone](https://github.com/januusingh/kaggle-competitions/tree/master/parkinsons-smart-phone)
+1. [2009-2013 Census Data](https://www.kaggle.com/census/2013-american-community-survey): Found in [census-data](https://github.com/januusingh/kaggle-competitions/tree/master/census-data)
+2. [COVID-19 Global Forecasting](https://www.kaggle.com/c/covid19-global-forecasting-week-3/): Found in [covid-19-analysis](https://github.com/januusingh/kaggle-competitions/tree/master/covid-19-analysis)
+3. [COVID-19 Roche UNCOVER Challenge](https://www.kaggle.com/roche-data-science-coalition/uncover): Found in [covid-19-analysis](https://github.com/januusingh/kaggle-competitions/tree/master/covid-19-analysis)
+4. [Heritage Health Prize](https://www.kaggle.com/c/hhp): Found in [ehr-heritage-health](https://github.com/januusingh/kaggle-competitions/tree/master/ehr-heritage-health)
+5. [Predicting Parkinson's Disease Progression with Smartphone Data](https://www.kaggle.com/c/predicting-parkinson-s-disease-progression-with-smartphone-data/data): Found in [parkinsons-smart-phone](https://github.com/januusingh/kaggle-competitions/tree/master/parkinsons-smart-phone)
 
 
 #### Data
